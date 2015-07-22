@@ -1,0 +1,10 @@
+apple
+google
+samsung
+banana
+lemon
+abc123
+qwerty
+secret
+pythonispython
+hellyeah
